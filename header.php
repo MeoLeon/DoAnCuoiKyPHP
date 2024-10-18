@@ -1,6 +1,6 @@
 <header>
     <div id="header-info" class="w-100">
-        <img id="logo" src="logo.png" alt="logo" width="150">
+        <img id="logo" src="assets/images/logo.png" width="150">
         <h1>Quản lý HCMUE</h1>
     </div>
     <nav
@@ -22,20 +22,20 @@
                 <ul class="navbar-nav me-auto mt-2 mt-lg-0 gap-4">
                     <li class="nav-item">
                         <a class="nav-link  text-light active thanhtieude" href="#" aria-current="page">
-                            <img src="house-solid.svg" alt="" width="20">
+                            <img src="assets/images/house-solid.svg" alt="" width="20">
                             TRANG CHỦ
                             <span class="visually-hidden">(current)</span>
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link  text-light thanhtieude" href="#" aria-current="page">
-                            <img src="bookmark.svg" alt="" width="14">
+                            <img src="assets/images/bookmark.svg" alt="" width="14">
                             MÔN HỌC
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link  text-light thanhtieude" href="#">
-                            <img src="user.svg" alt="" width="18">
+                            <img src="assets/images/user.svg" alt="" width="18">
                             DANH SÁCH GIÁO VIÊN
                         </a>
                     </li>
@@ -49,7 +49,7 @@
 
 
                             aria-expanded="false">
-                            <img src="circle-solid.svg" alt="" width="20">
+                            <img src="assets/images/circle-solid.svg" alt="" width="20">
                             CHỨC NĂNG
                         </a>
                         <div
@@ -61,7 +61,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link  text-light thanhtieude" href="#">
-                            <img src="infor.svg" alt="" width="20">
+                            <img src="assets/images/infor.svg" alt="" width="20">
                             VỀ CHÚNG TÔI
                         </a>
                     </li>
@@ -72,7 +72,7 @@
                         type="text"
                         placeholder="Search" />
                     <button class="search-bt">
-                        <img src="search.svg" alt="" width="20">
+                        <img src="assets/images/search.svg" alt="" width="20">
                     </button>
                 </form>
             </div>

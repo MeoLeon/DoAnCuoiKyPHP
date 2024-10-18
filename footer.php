@@ -7,7 +7,7 @@
                 <h6>Email: hcmue@edu.vn</h6>
             </div>
             <div class="col-6 column">
-                <img src="hcmue.jpg" alt="" class="imghcmue">
+                <img src="assets/images/hcmue.jpg" alt="" class="imghcmue">
                 <h6>Số lượng truy cập: xxxxxx</h6>
                 <h1>::.</h1>
             </div>
