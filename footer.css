@@ -1,0 +1,28 @@
+#footer-info {
+    background-color: #056392;
+    color: white;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    padding: 50px 120px;
+}
+
+#sign{
+    background-color: rgb(71, 72, 85);
+    color: rgba(255, 255, 255, 0.599);
+    text-align: right;
+}
+#sign p{
+    margin-right: 30px;
+}
+
+.imghcmue{
+    width: 200px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
